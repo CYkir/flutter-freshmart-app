@@ -1,6 +1,8 @@
 # freshmart_app
 
-A new Flutter project.
+## freshmart_API = https://github.com/CYkir/freshmart-rest-api
+
+A new Flutter project....
 
 ## Getting Started
 
